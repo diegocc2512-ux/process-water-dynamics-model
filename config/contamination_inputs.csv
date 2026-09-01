@@ -1,0 +1,10 @@
+system_id,organism_id,contamination_input_cfu_per_cycle
+LOOP_A,IND_A,150
+LOOP_A,MES_B,25
+LOOP_A,PSY_C,10
+LOOP_B,IND_A,300
+LOOP_B,MES_B,60
+LOOP_B,PSY_C,25
+LOOP_C,IND_A,80
+LOOP_C,MES_B,15
+LOOP_C,PSY_C,12

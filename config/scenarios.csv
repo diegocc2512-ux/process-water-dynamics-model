@@ -1,0 +1,4 @@
+scenario_id,contamination_multiplier,growth_multiplier,decay_multiplier,flow_multiplier
+LOW,0.6,0.8,0.8,1.15
+TYPICAL,1.0,1.0,1.0,1.0
+WORST,1.8,1.2,1.35,0.75

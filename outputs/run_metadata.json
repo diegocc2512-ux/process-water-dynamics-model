@@ -1,0 +1,6 @@
+{
+  "model_version": "1.0.0-public",
+  "data_status": "synthetic demonstration dataset",
+  "purpose": "portfolio / validation-support demonstration",
+  "warning": "Do not use example outputs as food-safety or operating limits."
+}

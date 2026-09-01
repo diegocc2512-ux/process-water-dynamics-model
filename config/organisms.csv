@@ -1,0 +1,4 @@
+organism_id,name,initial_cfu_ml,replacement_water_cfu_ml,action_limit_cfu_ml,carrying_capacity_cfu_ml,ratkowsky_b,t_min_c,t_max_c,pH_min,pH_opt,aw_min,lag_time_h,base_death_rate_per_h,validation_status
+IND_A,Indicator organism A,8,0.1,250,10000000,0.024,1,45,4.0,7.0,0.94,0,0,SYNTHETIC
+MES_B,Mesophilic organism B,1,0.02,50,1000000,0.021,6,44,4.2,7.0,0.95,0.5,0,SYNTHETIC
+PSY_C,Cold-tolerant organism C,0.5,0.01,25,1000000,0.017,-1,42,4.4,7.0,0.93,0.5,0,SYNTHETIC

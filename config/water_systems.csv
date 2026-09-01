@@ -1,0 +1,4 @@
+system_id,system_name,water_volume_l,temperature_c,pH,water_activity,cycle_time_min,make_up_flow_l_h,discharge_flow_l_h,organic_load_index,max_cycles
+LOOP_A,Conditioning loop,600,14,7.1,0.997,15,60,60,0.7,48
+LOOP_B,Open-product wash loop,450,16,7.0,0.997,15,35,35,1.2,48
+LOOP_C,Chilled recovery loop,900,5,7.2,0.997,15,90,90,0.5,48

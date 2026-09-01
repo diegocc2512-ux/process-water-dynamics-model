@@ -1,0 +1,4 @@
+system_id,disinfectant_type,minimum_residual_ppm,initial_residual_ppm,first_order_decay_k_per_h,demand_loss_ppm_per_h,redose_trigger_ppm,redose_to_ppm,validation_status
+LOOP_A,HOCL,1.5,2.8,0.10,0.05,1.6,2.8,SYNTHETIC
+LOOP_B,HOCL,1.5,2.8,0.16,0.08,1.6,2.8,SYNTHETIC
+LOOP_C,HOCL,1.5,2.8,0.07,0.03,1.6,2.8,SYNTHETIC
