@@ -234,6 +234,3 @@ It should therefore not be used as a substitute for plant validation, regulatory
 
 Food Technology / Biotechnology student interested in **bioprocess engineering, process modelling, food biotechnology and data-driven process optimisation**.
 
-## License
-
-MIT License. See [`LICENSE`](LICENSE).
